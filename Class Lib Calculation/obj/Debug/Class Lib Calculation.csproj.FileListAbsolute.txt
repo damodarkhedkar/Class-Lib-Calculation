@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\c#\Class Lib Calculation\Class Lib Calculation\bin\Debug\Class Lib Calculation.dll
+C:\Users\Admin\Desktop\c#\Class Lib Calculation\Class Lib Calculation\bin\Debug\Class Lib Calculation.pdb
+C:\Users\Admin\Desktop\c#\Class Lib Calculation\Class Lib Calculation\obj\Debug\Class Lib Calculation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\c#\Class Lib Calculation\Class Lib Calculation\obj\Debug\Class Lib Calculation.dll
+C:\Users\Admin\Desktop\c#\Class Lib Calculation\Class Lib Calculation\obj\Debug\Class Lib Calculation.pdb
